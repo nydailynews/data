@@ -1,0 +1,449 @@
+team,year,average-home-attendance,total-home-attendance,made-playoffs
+New York Yankees,2017,"38,950","3,154,938",1
+New York Yankees,2016,"37,820","3,063,405",
+New York Yankees,2015,"39,430","3,193,795",1
+New York Yankees,2014,"41,995","3,401,624",
+New York Yankees,2013,"40,489","3,279,589",
+New York Yankees,2012,"43,733","3,542,406",1
+New York Yankees,2011,"45,107","3,653,680",1
+New York Yankees,2010,"46,491","3,765,807",1
+New York Yankees,2009,"45,918","3,719,358",1
+New York Yankees,2008,"53,070","4,298,655",
+New York Yankees,2007,"52,729","4,271,083",1
+New York Yankees,2006,"52,445","4,248,067",1
+New York Yankees,2005,"50,502","4,090,696",1
+New York Yankees,2004,"46,609","3,775,292",1
+New York Yankees,2003,"42,263","3,465,600",1
+New York Yankees,2002,"43,323","3,465,807",1
+New York Yankees,2001,"40,811","3,264,907",1
+New York Yankees,2000,"38,193","3,055,435",1
+New York Yankees,1999,"40,651","3,292,736",1
+New York Yankees,1998,"36,484","2,955,193",1
+New York Yankees,1997,"32,254","2,580,325",1
+New York Yankees,1996,"28,136","2,250,877",1
+New York Yankees,1995,"23,360","1,705,263",1
+New York Yankees,1994,"29,396","1,675,556",
+New York Yankees,1993,"29,839","2,416,942",
+New York Yankees,1992,"21,589","1,748,737",
+New York Yankees,1991,"23,009","1,863,733",
+New York Yankees,1990,"24,771","2,006,436",
+New York Yankees,1989,"26,796","2,170,485",
+New York Yankees,1988,"32,921","2,633,701",
+New York Yankees,1987,"29,971","2,427,672",
+New York Yankees,1986,"28,350","2,268,030",
+New York Yankees,1985,"27,682","2,214,587",
+New York Yankees,1984,"22,492","1,821,815",
+New York Yankees,1983,"27,876","2,257,976",
+New York Yankees,1982,"25,200","2,041,219",
+New York Yankees,1981,"31,654","1,614,353",1
+New York Yankees,1980,"32,437","2,627,417",1
+New York Yankees,1979,"31,330","2,537,765",
+New York Yankees,1978,"28,838","2,335,871",1
+New York Yankees,1977,"25,964","2,103,092",1
+New York Yankees,1976,"25,155","2,012,434",1
+New York Yankees,1975,"16,513","1,288,048",
+New York Yankees,1974,"15,717","1,273,075",
+New York Yankees,1973,"15,582","1,262,103",
+New York Yankees,1972,"12,550","966,328",
+New York Yankees,1971,"13,219","1,070,771",
+New York Yankees,1970,"14,036","1,136,879",
+New York Yankees,1969,"13,350","1,067,996",
+New York Yankees,1968,"14,459","1,185,666",
+New York Yankees,1967,"15,360","1,259,514",
+New York Yankees,1966,"13,715","1,124,648",
+New York Yankees,1965,"14,621","1,213,552",
+New York Yankees,1964,"16,119","1,305,638",1
+New York Yankees,1963,"16,362","1,308,920",1
+New York Yankees,1962,"18,670","1,493,574",1
+New York Yankees,1961,"21,577","1,747,725",1
+New York Yankees,1960,"21,134","1,627,349",1
+New York Yankees,1959,"20,156","1,552,030",
+New York Yankees,1958,"18,313","1,428,438",1
+New York Yankees,1957,"19,443","1,497,134",1
+New York Yankees,1956,"19,374","1,491,784",1
+New York Yankees,1955,"19,352","1,490,138",1
+New York Yankees,1954,"18,912","1,475,171",
+New York Yankees,1953,"19,972","1,537,811",1
+New York Yankees,1952,"21,164","1,629,665",1
+New York Yankees,1951,"25,001","1,950,107",1
+New York Yankees,1950,"27,031","2,081,380",1
+New York Yankees,1949,"29,278","2,283,676",1
+New York Yankees,1948,"30,830","2,373,901",
+New York Yankees,1947,"28,298","2,178,937",1
+New York Yankees,1946,"29,422","2,265,512",
+New York Yankees,1945,"11,603","881,845",
+New York Yankees,1944,"10,128","789,995",
+New York Yankees,1943,"8,030","618,330",1
+New York Yankees,1942,"11,974","922,011",1
+New York Yankees,1941,"12,368","964,722",1
+New York Yankees,1940,"13,013","988,975",
+New York Yankees,1939,"11,166","859,785",1
+New York Yankees,1938,"12,290","970,916",1
+New York Yankees,1937,"12,635","998,148",1
+New York Yankees,1936,"12,687","976,913",1
+New York Yankees,1935,"8,885","657,508",
+New York Yankees,1934,"11,100","854,682",
+New York Yankees,1933,"9,707","728,014",
+New York Yankees,1932,"12,498","962,320",1
+New York Yankees,1931,"11,850","912,437",
+New York Yankees,1930,"15,385","1,169,230",
+New York Yankees,1929,"12,469","960,148",
+New York Yankees,1928,"13,924","1,072,132",1
+New York Yankees,1927,"15,117","1,164,015",1
+New York Yankees,1926,"13,702","1,027,675",1
+New York Yankees,1925,"8,826","697,267",
+New York Yankees,1924,"13,507","1,053,533",
+New York Yankees,1923,"13,251","1,007,066",1
+New York Yankees,1922,"13,326","1,026,134",1
+New York Yankees,1921,"15,778","1,230,696",1
+New York Yankees,1920,"16,746","1,289,422",
+New York Yankees,1919,"8,482","619,164",
+New York Yankees,1918,"4,210","282,047",
+New York Yankees,1917,"4,404","330,294",
+New York Yankees,1916,"5,939","469,211",
+New York Yankees,1915,"3,122","256,035",
+New York Yankees,1914,"4,609","359,477",
+New York Yankees,1913,"4,767","357,551",
+New York Highlanders,1912,"3,187","242,194",
+New York Highlanders,1911,"3,928","302,444",
+New York Highlanders,1910,"4,622","355,857",
+New York Highlanders,1909,"6,506","501,000",
+New York Highlanders,1908,"3,968","305,500",
+New York Highlanders,1907,"4,667","350,020",
+New York Highlanders,1906,"5,720","434,700",
+New York Highlanders,1905,"4,121","309,100",
+New York Highlanders,1904,"5,852","438,919",
+New York Highlanders,1903,"3,161","211,808",
+New York Mets,2017,"30,378","2,460,622",
+New York Mets,2016,"34,440","2,789,602",1
+New York Mets,2015,"31,725","2,569,753",1
+New York Mets,2014,"26,528","2,148,808",
+New York Mets,2013,"26,366","2,135,657",
+New York Mets,2012,"27,689","2,242,803",
+New York Mets,2011,"29,044","2,352,596",
+New York Mets,2010,"31,602","2,559,738",
+New York Mets,2009,"39,118","3,168,571",
+New York Mets,2008,"49,902","4,042,045",
+New York Mets,2007,"47,580","3,853,955",
+New York Mets,2006,"41,723","3,379,535",1
+New York Mets,2005,"34,937","2,829,929",
+New York Mets,2004,"28,629","2,318,951",
+New York Mets,2003,"26,757","2,140,599",
+New York Mets,2002,"34,628","2,804,838",
+New York Mets,2001,"32,819","2,658,330",
+New York Mets,2000,"34,821","2,820,530",1
+New York Mets,1999,"33,650","2,725,668",1
+New York Mets,1998,"28,246","2,287,948",
+New York Mets,1997,"21,805","1,766,174",
+New York Mets,1996,"19,609","1,588,323",
+New York Mets,1995,"17,683","1,273,183",
+New York Mets,1994,"21,726","1,151,471",
+New York Mets,1993,"23,126","1,873,183",
+New York Mets,1992,"21,970","1,779,534",
+New York Mets,1991,"27,860","2,284,484",
+New York Mets,1990,"33,738","2,732,745",
+New York Mets,1989,"36,033","2,918,710",
+New York Mets,1988,"38,193","3,055,445",1
+New York Mets,1987,"37,458","3,034,129",
+New York Mets,1986,"34,168","2,767,601",1
+New York Mets,1985,"34,094","2,761,601",
+New York Mets,1984,"22,749","1,842,695",
+New York Mets,1983,"13,570","1,112,774",
+New York Mets,1982,"16,334","1,323,036",
+New York Mets,1981,"13,543","704,244",
+New York Mets,1980,"14,537","1,192,073",
+New York Mets,1979,"9,621","788,905",
+New York Mets,1978,"12,592","1,007,328",
+New York Mets,1977,"13,504","1,066,825",
+New York Mets,1976,"17,912","1,468,754",
+New York Mets,1975,"21,365","1,730,566",
+New York Mets,1974,"21,262","1,722,209",
+New York Mets,1973,"23,610","1,912,390",1
+New York Mets,1972,"27,361","2,134,185",
+New York Mets,1971,"27,984","2,266,680",
+New York Mets,1970,"32,896","2,697,479",
+New York Mets,1969,"26,529","2,175,373",1
+New York Mets,1968,"21,728","1,781,657",
+New York Mets,1967,"20,070","1,565,492",
+New York Mets,1966,"23,860","1,932,693",
+New York Mets,1965,"21,566","1,768,389",
+New York Mets,1964,"21,129","1,732,597",
+New York Mets,1963,"13,335","1,080,108",
+New York Mets,1962,"11,532","922,530",
+New York Giants,2017,"77,309","541,165",
+New York Giants,2016,"78,789","630,315",1
+New York Giants,2015,"79,001","632,011",
+New York Giants,2014,"78,967","631,738",
+New York Giants,2013,"80,148","641,184",
+New York Giants,2012,"80,495","643,964",
+New York Giants,2011,"79,475","635,800",1
+New York Giants,2010,"79,019","632,156",
+New York Giants,2009,"78,701","629,615",
+New York Giants,2008,"79,069","632,554",1
+New York Giants,2007,"78,731","629,848",1
+New York Giants,2006,"78,613","628,910",1
+New York Giants,2005,"78,565","628,518",1
+New York Giants,2004,"78,734","629,874",
+New York Giants,2003,"78,620","628,960",
+New York Giants,2002,"78,652","629,213",1
+New York Giants,2001,"78,498","627,985",
+New York Giants,2000,"78,011","624,085",1
+New York Giants,1999,"77,972","623,777",
+New York Giants,1998,"72,089","576,708",
+New York Giants,1997,"71,655","573,241",1
+New York Giants,1996,"69,109","552,870",
+New York Giants,1995,"66,557","532,453",
+New York Giants,1994,"72,982","583,857",
+New York Giants,1993,"73,021","584,165",1
+New York Giants,1992,"76,088","608,706",
+New York Giants,1991,"74,650","597,199",
+New York Giants,1990,"74,946","599,570",1
+New York Giants,1989,"74,540","596,319",1
+New York Giants,1988,"70,685","565,482",
+New York Giants,1987,"54,054","432,433",
+New York Giants,1986,"74,304","594,433",1
+New York Giants,1985,"72,550","580,399",1
+New York Giants,1984,"72,993","583,945",1
+New York Giants,1983,"64,937","519,494",1
+New York Jets,2017,"77,562","542,934",
+New York Jets,2016,"78,160","625,280",
+New York Jets,2015,"78,160","625,280",
+New York Jets,2014,"78,160","625,280",
+New York Jets,2013,"80,148","641,184",
+New York Jets,2012,"79,088","632,704",
+New York Jets,2011,"78,986","631,888",
+New York Jets,2010,"78,596","628,768",1
+New York Jets,2009,"77,052","616,420",1
+New York Jets,2008,"78,482","627,858",
+New York Jets,2007,"77,106","616,855",
+New York Jets,2006,"77,321","618,575",1
+New York Jets,2005,"77,495","619,958",
+New York Jets,2004,"77,897","623,181",1
+New York Jets,2003,"77,782","622,255",
+New York Jets,2002,"78,597","628,773",1
+New York Jets,2001,"78,450","627,603",1
+New York Jets,2000,"77,994","623,948",
+New York Jets,1999,"78,106","624,847",
+New York Jets,1998,"72,078","576,620",1
+New York Jets,1997,"65,411","523,285",
+New York Jets,1996,"49,394","395,154",
+New York Jets,1995,"56,010","448,079",
+New York Jets,1994,"65,893","527,147",
+New York Jets,1993,"66,463","531,702",
+New York Jets,1992,"75,452","603,619",
+New York Jets,1991,"61,923","495,382",1
+New York Jets,1990,"57,315","458,519",
+New York Jets,1989,"53,683","429,465",
+New York Jets,1988,"60,380","483,037",
+New York Jets,1987,"44,112","352,895",
+New York Jets,1986,"65,586","524,688",1
+New York Jets,1985,"67,729","541,832",1
+New York Jets,1984,"64,324","514,591",
+New York Jets,1983,"51,510","412,081",
+New York Jets,1969,"62,920","440,442",1
+New York Jets,1968,"61,966","433,760",1
+New York Jets,1967,"62,434","437,036",
+New York Jets,1966,"59,395","415,768",
+New York Jets,1965,"54,878","384,144",
+New York Jets,1964,"42,710","298,972",
+New York Jets,1963,"14,793","103,550",
+New York Jets,1962,"5,166","36,161",
+New York Jets,1961,"15,231","106,619",
+New York Jets,1960,"16,375","114,628",
+New York Knicks,2017-18,"19,162","364,088",
+New York Knicks,2016-17,"19,774","810,741",
+New York Knicks,2015-16,"19,812","812,292",
+New York Knicks,2014-15,"19,812","812,292",
+New York Knicks,2013-14,"19,812","812,292",
+New York Knicks,2012-13,"19,033","780,353",1
+New York Knicks,2011-12,"19,763","652,179",1
+New York Knicks,2010-11,"19,728","808,879",1
+New York Knicks,2009-10,"19,501","799,550",
+New York Knicks,2008-09,"19,287","790,801",
+New York Knicks,2007-08,"19,115","783,739",
+New York Knicks,2006-07,"18,805","771,017",
+New York Knicks,2005-06,"18,931","776,176",
+New York Knicks,2004-05,"19,515","800,144",
+New York Knicks,2003-04,"19,164","785,739",1
+New York Knicks,2002-03,"19,011","779,389",
+New York Knicks,2001-02,"19,763","810,283",
+New York Knicks,2000-01,"19,763","810,283",1
+New York Knicks,1999-00,"19,763","810,283",1
+New York Knicks,1998-99,"19,763","494,075",1
+New York Knicks,1997-98,"19,763","810,283",1
+New York Knicks,1996-97,"19,763","810,283",1
+New York Knicks,1995-96,"19,763","810,283",1
+New York Knicks,1994-95,"19,763","810,283",1
+New York Knicks,1993-94,"19,763","810,283",1
+New York Knicks,1992-93,"19,630","804,840",1
+New York Knicks,1991-92,"17,838","731,371",1
+New York Knicks,1990-91,"15,975","654,962",1
+New York Knicks,1989-90,"17,815","730,432",1
+New York Knicks,1988-89,"18,216","746,851",1
+New York Knicks,1987-88,"14,311","586,752",1
+New York Knicks,1986-87,"13,123","538,058",
+New York Knicks,1985-86,"14,451","592,486",
+New York Knicks,1984-85,"11,154","457,317",
+New York Knicks,1983-84,"12,096","495,944",1
+New York Knicks,1982-83,"10,703","438,823",1
+New York Knicks,1981-82,"10,834","444,189",
+New York Knicks,1980-81,"13,328","546,441",1
+New York Knicks,1979-80,"12,405","508,597",
+New York Knicks,1978-79,"13,310","545,715",
+New York Knicks,1977-78,"15,288","626,815",1
+New York Knicks,1976-77,"15,727","644,811",
+New York Knicks,1975-76,"16,408","672,745",
+New York Knicks,1974-75,"18,556","760,786",1
+New York Knicks,1973-74,"19,133","784,433",1
+New York Knicks,1972-73,"19,269","790,031",1
+New York Knicks,1971-72,"19,154","785,298",1
+New York Knicks,1970-71,"18,622","763,487",1
+New York Knicks,1969-70,"18,566","761,226",1
+New York Knicks,1968-69,"15,383","569,153",1
+New York Knicks,1967-68,"14,448","534,568",1
+New York Knicks,1966-67,"11,716","410,057",1
+New York Knicks,1965-66,"10,566","369,812",
+New York Knicks,1964-65,"9,225","322,870",
+New York Knicks,1963-64,"8,392","293,704",
+New York Knicks,1962-63,"8,905","302,775",
+New York Knicks,1961-62,"8,035","265,153",
+New York Knicks,1960-61,"10,215","326,895",
+Brooklyn Nets,2016-17,"15,429","632,608",
+Brooklyn Nets,2015-16,"15,125","620,142",
+Brooklyn Nets,2014-15,"17,037","698,529",1
+Brooklyn Nets,2013-14,"17,251","707,331",1
+Brooklyn Nets,2012-13,"17,187","704,702",1
+Brooklyn Nets,2011-12,"13,961","460,719",
+Brooklyn Nets,2010-11,"14,180","581,317",
+Brooklyn Nets,2009-10,"13,103","537,230",
+Brooklyn Nets,2008-09,"15,147","621,062",
+Brooklyn Nets,2007-08,"15,567","641,921",
+Brooklyn Nets,2006-07,"16,926","693,955",1
+Brooklyn Nets,2005-06,"16,867","691,543",1
+Brooklyn Nets,2004-05,"15,090","618,681",1
+Brooklyn Nets,2003-04,"14,952","613,051",1
+Brooklyn Nets,2002-03,"15,185","622,574",1
+Brooklyn Nets,2001-02,"13,761","564,194",1
+Brooklyn Nets,2000-01,"13,807","566,077",
+Brooklyn Nets,1999-00,"15,698","643,623",
+Brooklyn Nets,1998-99,"16,614","415,353",
+Brooklyn Nets,1997-98,"17,525*","718,523*",1
+Brooklyn Nets,1996-97,"16,357","670,628",
+Brooklyn Nets,1995-96,"15,564","638,144",
+Brooklyn Nets,1994-95,"16,685","684,102",
+Brooklyn Nets,1993-94,"16,056","658,304",1
+Brooklyn Nets,1992-93,"15,132","620,416",1
+Brooklyn Nets,1991-92,"12,618","517,356",1
+Brooklyn Nets,1990-91,"11,949","489,915",
+Brooklyn Nets,1989-90,"12,142","497,838",
+Brooklyn Nets,1988-89,"12,673","519,601",
+Brooklyn Nets,1987-88,"11,611","476,054",
+Brooklyn Nets,1986-87,"11,041","452,686",
+Brooklyn Nets,1985-86,"11,794","483,554",1
+Brooklyn Nets,1984-85,"12,243","501,963",1
+Brooklyn Nets,1983-84,"12,499","512,441",1
+Brooklyn Nets,1982-83,"12,947","530,808",1
+Brooklyn Nets,1981-82,"13,875","568,861",1
+Brooklyn Nets,1980-81,"7,387","302,061",
+Brooklyn Nets,1979-80,"6,278","257,418",
+Brooklyn Nets,1978-79,"4,853","198,990",1
+Brooklyn Nets,1977-78,"4,856","199,090",
+Brooklyn Nets,1976-77,"6,928","284,259",
+Brooklyn Nets,1975-76,"8,294","406,426",1
+Brooklyn Nets,1974-75,"9,229","415,312",1
+Brooklyn Nets,1973-74,"9,569","478,449",1
+Brooklyn Nets,1972-73,"7,449","300,081",1
+Brooklyn Nets,1971-72,"7,658","390,579",1
+Brooklyn Nets,1970-71,"4,668","210,043",1
+Brooklyn Nets,1969-70,"3,437","154,678",1
+Brooklyn Nets,1968-69,"1,108","43,195",
+Brooklyn Nets,1967-68,"2,054","80,091",
+New York Rangers,2017-18,"17,797","391,551",
+New York Rangers,2016-17,"18,020","738,828",1
+New York Rangers,2015-16,"18,006","738,246",1
+New York Rangers,2014-15,"18,006","738,246",1
+New York Rangers,2013-14,"18,006","738,246",1
+New York Rangers,2012-13,"17,200","412,800",1
+New York Rangers,2011-12,"18,191","745,852",1
+New York Rangers,2010-11,"18,108","742,432",1
+New York Rangers,2009-10,"18,076","741,128",
+New York Rangers,2008-09,"18,172","745,085",1
+New York Rangers,2007-08,"18,200","746,200",1
+New York Rangers,2006-07,"18,200","746,200",1
+New York Rangers,2005-06,"18,142","743,848",1
+New York Rangers,2003-04,"18,080","741,302",
+New York Rangers,2002-03,"18,148","744,068",
+New York Rangers,2001-02,"18,038","739,582",
+New York Rangers,2000-01,"18,200","746,200",
+New York Rangers,1999-00,"18,200","746,200",
+New York Rangers,1998-99,"18,200","746,200",
+New York Rangers,1997-98,"18,189","745,768",
+New York Rangers,1996-97,"18,188","745,714",1
+New York Rangers,1995-96,"18,200","746,200",1
+New York Rangers,1994-95,"18,200","436,800",1
+New York Rangers,1993-94,"17,761","745,990",1
+New York Islanders,2017-18,"11,567","173,508",
+New York Islanders,2016-17,"13,101","537,149",
+New York Islanders,2015-16,"13,626","558,705",1
+New York Islanders,2014-15,"15,334","628,729",1
+New York Islanders,2013-14,"14,740","604,362",
+New York Islanders,2012-13,"13,306","319,362",1
+New York Islanders,2011-12,"13,191","540,838",
+New York Islanders,2010-11,"11,059","453,456",
+New York Islanders,2009-10,"12,735","522,168",
+New York Islanders,2008-09,"13,773","564,697",
+New York Islanders,2007-08,"13,640","559,247",
+New York Islanders,2006-07,"12,886","528,331",1
+New York Islanders,2005-06,"12,609","516,973",
+New York Islanders,2003-04,"13,693","561,419",1
+New York Islanders,2002-03,"14,858","609,218",1
+New York Islanders,2001-02,"14,548","596,498",1
+New York Islanders,2000-01,"11,332","464,627",
+New York Islanders,1999-00,"9,748","399,671",
+New York Islanders,1998-99,"11,299","463,276",
+New York Islanders,1997-98,"12,253","502,410",
+New York Islanders,1996-97,"12,494","512,279",
+New York Islanders,1995-96,"11,355","465,577",
+New York Islanders,1994-95,"12,573","301,764",
+New York Islanders,1993-94,"12,091","507,839",1
+New York Liberty,2015,"9,159","155,695",1
+New York Liberty,2014,"8,949","152,128",
+New York Liberty,2013,"7,189","122,217",
+New York Liberty,2012,"6,779","115,241",1
+New York Liberty,2011,"7,702","130,936",1
+New York Liberty,2010,"11,069","188,173",1
+New York Liberty,2009,"9,800","166,604",
+New York Liberty,2008,"9,045","153,772",1
+New York Liberty,2007,"8,677","147,506",1
+New York Liberty,2006,"9,120","155,048",
+New York Liberty,2005,"10,145","172,471",1
+New York Liberty,2004,"9,629","163,686",1
+New York Liberty,2003,"12,491","212,346",
+New York Liberty,2002,"14,670","234,717",1
+New York Liberty,2001,"15,671","250,735",1
+New York Liberty,2000,"14,498","231,962",1
+New York Liberty,1999,"13,797","220,748",1
+New York Liberty,1998,"14,935","224,024",
+New York Liberty,1997,"13,270","185,786",1
+New York Red Bulls,2014,"19,421","388,420",
+New York Red Bulls,2013,"19,460","330,832",
+New York Red Bulls,2012,"18,045","324,817",
+New York Red Bulls,2011,"19,691","321,656",
+New York Red Bulls,2010,"18,441","266,797",
+New York Red Bulls,2009,"12,744","165,672",
+New York Red Bulls,2008,"16,323","277,503",
+New York Red Bulls,2007,"16,530","218,023",
+New York Red Bulls,2006,"14,570","186,088",
+New York Red Bulls,2005,"15,077","184,296",
+New York Red Bulls,2004,"17,194","155,507",
+New York Red Bulls,2003,"15,822","237,326",
+New York Red Bulls,2002,"18,155","254,174",
+New York Red Bulls,2001,"20,806","270,477",
+New York Red Bulls,2000,"17,621","281,938",
+New York Red Bulls,1999,"14,706","235,301",
+New York Red Bulls,1998,"16,520","264,316",
+New York Red Bulls,1997,"16,899","270,388",
+New York Red Bulls,1996,"23,898","382,360",
+New York City Football Club,2017-18,"22,320","379,455",
+New York City Football Club,2016-17,"27,196","462,336",
+New York City Football Club,2015-16,"29,021","493,358",
